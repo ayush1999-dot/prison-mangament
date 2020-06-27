@@ -1,0 +1,17 @@
+body
+{
+	background-image: url(pr2.jpg);
+	background-size: cover;
+}
+p
+{
+  color: azure; 
+  font-family: 'Acme', sans-serif;
+
+
+ float: right;
+ display: inline-block;
+ padding: 5px 20px;
+ border: 1px solid
+
+}
